@@ -2,7 +2,7 @@
 
 - src: git@github.com:geerlingguy/ansible-role-docker.git
   scm: git
-  version: 5.2.1
+  version: 6.0.0
 
 - src: git+ssh://git@github.com/geerlingguy/ansible-role-postgresql.git
   scm: git
